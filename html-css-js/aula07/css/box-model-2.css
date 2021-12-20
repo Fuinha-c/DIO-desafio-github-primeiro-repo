@@ -1,0 +1,21 @@
+body {
+    background: url(../img/universe.jpg) no-repeat;
+}
+
+
+.menu {
+    background: rgba(255, 255, 255, 0.363);
+    height: 120px;
+    padding: 10px;
+}
+
+.logotipo {
+    border: 2px dotted yellowgreen;
+    width: 80px;
+    height: 80px;
+
+}
+
+.menu a {
+    color: white;
+}

@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    height: 100px;
+}
+
+
+
+body {
+    /* margin: 0 auto; */
+    padding: 0 auto;
+    background: #AED4CE;
+}
+
+main {
+    border: 1px solid yellow;
+}
+
+
+h2 {
+    text-align: center;
+}
