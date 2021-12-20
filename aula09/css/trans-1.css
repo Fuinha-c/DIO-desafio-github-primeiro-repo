@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    transition: 2s;
+}
+
+#tr-1 {
+    transform: skew(30deg);
+}
+
+#tr-2 {
+    transform: rotate(30deg);
+}
+
+#tr-3:hover {
+    transform: scale(1.2);
+    transform: rotate(45deg);
+    transition: 2s;
+}
+

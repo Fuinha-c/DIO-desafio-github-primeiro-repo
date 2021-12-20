@@ -1,0 +1,31 @@
+body{
+    background: brown;
+}
+
+h1{
+    color: white;
+    background: orange;
+    font-family: Arial;
+}
+
+p {
+    color: purple;
+}
+/* o # é usado para identicar o id do html */
+#cidade {
+    color: white;
+}
+
+/* seletor por classe utiliza o (.) */
+
+.destaque {
+    background: gray;
+}
+
+/* seleção por hierarquia facilita a formatação sem precisar de class e id */
+
+p a{
+    color: yellow;
+}
+
+
